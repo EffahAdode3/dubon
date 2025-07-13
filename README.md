@@ -2,13 +2,13 @@
 
 ## 🚀 Overview
 
-Dubon Services is a full-stack e-commerce and event management platform designed to empower local businesses and consumers in French country in Africa. The platform enables users to buy and sell products, book services, organize events, and access professional training—all in one place. It features a modern, scalable architecture using Node.js/Express for the backend and Next.js/React for the frontend, with PostgreSQL as the database.
+Dubon Services is a full-stack e-commerce and event management platform designed to empower local businesses and consumers in speaking French country in Africa. The platform enables users to buy and sell products, book services, organize events, and access professional training—all in one place. It features a modern, scalable architecture using Node.js/Express for the backend and Next.js/React for the frontend, with PostgreSQL as the database.
 
 ---
 
 ## 💡 Why Dubon Services?
 
-- **Real-World Impact:** Addresses the needs of local entrepreneurs and consumers by providing a digital marketplace tailored to the French country in Africa context.
+- **Real-World Impact:** Addresses the needs of local entrepreneurs and consumers by providing a digital marketplace tailored to the speaking French country in Africa context.
 - **Comprehensive Solution:** Combines e-commerce, event management, restaurant services, and online training into a single platform.
 - **Modern Tech Stack:** Utilizes industry-standard technologies for scalability, security, and maintainability.
 
